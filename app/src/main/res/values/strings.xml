@@ -1,0 +1,54 @@
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2019 VideoCoin Network
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Orbital Demo</string>
+    <string name="live_casts">Live Casts</string>
+    <string name="app_desc">Send your Live Cast to the world</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="check_internet">Check your internet connection</string>
+    <string name="auth_error">Authentication failed</string>
+    <string name="start_live_cast">Start Live Cast</string>
+    <string name="my_live_cast">My Live Cast</string>
+    <string name="recently_ended">Recently Ended</string>
+    <string name="error_fetching_data">Error fetching data</string>
+    <string name="mktg_title">Powered by Videocoin</string>
+    <string name="mktg_text">Orbital is powered by the VideoCoin(TM)\nNetwork, a decentralized video platform that\nis redefining the process for creating, storing,\nand distributing video content.</string>
+    <string name="learn_more">Learn More</string>
+    <string name="add_livecast_title">Give your live cast a title</string>
+    <string name="char_20_limit">20 character limit</string>
+    <string name="next">Next</string>
+    <string name="go_live">Go Live</string>
+    <string name="cancel">Cancel</string>
+    <string name="going_live">Going Live</string>
+    <string name="could_take_few_mins">This could take a few minutes</string>
+    <string name="now_live">Now Live</string>
+    <string name="end">End</string>
+    <string name="live_cast_ended">Live Cast Ended</string>
+    <string name="preview_ended_cast">Preview Ended Live Cast</string>
+    <string name="close">Close</string>
+    <string name="error_creating_livecast">Error creating Live Cast. Try again later.</string>
+    <string name="permissions_error">This app needs the requested permissions to live cast</string>
+    <string name="logout">Logout</string>
+</resources>
